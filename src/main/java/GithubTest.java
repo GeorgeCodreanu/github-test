@@ -4,5 +4,6 @@ public class GithubTest {
         System.out.printf("ce faci gitule");
         GitHubtest2.salut();
         System.out.println("salut conflict");
+        System.out.println("salut 2  fdsafsd");
     }
 }
